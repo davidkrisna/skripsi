@@ -1,4 +1,4 @@
-# Toko Sayur 22
+# Krisna Mart
 
 
 
@@ -18,8 +18,9 @@ dan lain-lain.
 
 User demo:
 - Admin
-username: mulyojr
-password: qwerty
+username: admin
+password: admin
 - Customer:
-username: agungtr
-password: qwerty
+Silahkan Daftar Sendiri ya
+
+
